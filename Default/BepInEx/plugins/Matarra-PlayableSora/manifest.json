@@ -1,0 +1,11 @@
+{
+  "name": "PlayableSora",
+  "version_number": "1.0.8",
+  "website_url": "https://discord.gg/bwrtG2",
+  "description": "Play as final form sora!",
+  "dependencies": [
+    "bbepis-BepInExPack-5.3.1",
+    "tristanmcpherson-R2API-2.5.0",
+    "wildbook-MiniRpcLib-0.0.2"
+  ]
+}

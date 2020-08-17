@@ -1,0 +1,11 @@
+{
+  "name": "PlayableAkali",
+  "version_number": "1.0.4",
+  "website_url": "https://discord.gg/bwrtG2",
+  "description": "Play as Akali from League of Legends!",
+  "dependencies": [
+    "bbepis-BepInExPack-5.3.1",
+    "tristanmcpherson-R2API-2.5.0",
+    "wildbook-MiniRpcLib-0.0.2"
+  ]
+}

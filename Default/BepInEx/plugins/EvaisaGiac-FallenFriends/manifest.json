@@ -1,0 +1,10 @@
+{
+  "name": "FallenFriends",
+  "version_number": "3.5.1",
+  "website_url": "",
+  "description": "Makes it so that whenever you die instead of spectating you take control of one of your allys!",
+  "dependencies": [
+    "bbepis-BepInExPack-5.3.1",
+	"tristanmcpherson-R2API-2.5.0"
+  ]
+}

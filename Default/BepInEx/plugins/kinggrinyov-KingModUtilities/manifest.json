@@ -1,0 +1,10 @@
+{
+    "name": "KingModUtilities",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A Utility mod to support all of my mods!",
+    "dependencies": [
+    "tristanmcpherson-R2API-2.4.21",
+    "bbepis-BepInExPack-3.2.0"
+    ]
+}
