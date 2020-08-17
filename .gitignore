@@ -4,3 +4,8 @@
 # Remove r2modman files
 /CheeseboyPack/doorstop_config.*
 /CheeseboyPack/winhttp.dll.*
+
+# Remove scripts
+extract_modlist.py
+rename_manifest.bat
+__pycache__
