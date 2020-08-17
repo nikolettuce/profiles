@@ -4,6 +4,7 @@
 # Remove r2modman files
 /CheeseboyPack/doorstop_config.*
 /CheeseboyPack/winhttp.*
+/CheeseboyPack/BepinEx/monomod
 
 # Remove scripts
 extract_modlist.py
